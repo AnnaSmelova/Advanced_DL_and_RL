@@ -1,2 +1,4 @@
-# Advanced_DL_and_RL
-MADE Advanced_DL_and_RL course
+# Advanced_DL_and_RLL
+
+Homeworks<br>
+MADE Академия Больших Данных
